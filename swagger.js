@@ -13,7 +13,7 @@ const options = {
             {
                 url: "http://localhost:4000"
             },{
-                url:"https://backend-7hep.onrender.com/"
+                url:"https://backend-7hep.onrender.com"
             }
         ]
     },
